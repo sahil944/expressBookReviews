@@ -54,13 +54,21 @@ The server-side application provides the following features and capabilities:
 ## Screenshots
 
 ![GetAllBooks](images/1-getallbooks.png)
+---
 ![gedetailsISBN](images/2-gedetailsISBN.png)
+---
 ![getbooksbyauthor](images/3-getbooksbyauthor.png)
+---
 ![getbooksbytitle](images/4-getbooksbytitle.png)
+---
 ![register](images/6-register.png)
+---
 ![login](images/7-login.png)
+---
 ![reviewAdded](images/8-reviewadded.png)
+---
 ![reviewDeleted](images/9-deletereview.png)
+---
 
 ## Contributing
 
