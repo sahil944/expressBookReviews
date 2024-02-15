@@ -52,6 +52,7 @@ The server-side application provides the following features and capabilities:
 11. Test with Postman.
 
 ## Screenshots
+The following images showcase tests conducted using Postman to validate the functionality of our APIs.
 
 ![GetAllBooks](images/1-getallbooks.png)
 ---
