@@ -7,6 +7,7 @@ Bookstore Server-Side Application
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -49,6 +50,10 @@ The server-side application provides the following features and capabilities:
 9. Implement session and JWT authentication.
 10. Handle concurrent operations using Promises, Callbacks, or Async/Await functions.
 11. Test with Postman.
+
+## Screenshots
+
+![GetAllBooks](images/1-getallbooks.png)
 
 ## Contributing
 
